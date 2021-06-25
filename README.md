@@ -8,7 +8,7 @@ The REST API was created to be able to carry out the exam proposed by the [Cash-
 Below i will explain how the REST API was made.
 ## 1 - Class diagram
 
-![diagrama1](https://user-images.githubusercontent.com/86318023/123351869-85847c00-d534-11eb-9944-30f1d8d31b03.png)
+![diagram](https://user-images.githubusercontent.com/86318023/123418344-564f2880-d58f-11eb-9a51-dc742cbc1ff2.png)
 
 ## 2 - Database
 
@@ -125,4 +125,4 @@ Create three test to show their implementation.
 
 ## 6 - Postman
 
-Link to import into [Postman](https://www.getpostman.com/collections/89448a10bdf00e3717f2).
+[Postman Collection](https://www.getpostman.com/collections/89448a10bdf00e3717f2) to assist in testing.
