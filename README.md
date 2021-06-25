@@ -42,7 +42,7 @@ INSERT INTO db_cash_online.users(email, first_name, last_name) VALUES("user1@gma
 INSERT INTO db_cash_online.loans(total, user_id) VALUES(10000, 1);...
 ```
 Initial data loading is implemented.
-#### 2.2 - Application.properties file setting
+#### 2.3 - Application.properties file setting
 The file is inside `resources` folder. Configure the connection to the database, the dialect and the migration.
 ```
 spring.datasource.url=jdbc:mysql://localhost/db_cash_online
